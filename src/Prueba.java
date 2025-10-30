@@ -8,5 +8,12 @@
  * @author Anthony
  */
 public class Prueba {
+
+    public Prueba() {
+        System.out.println("Hola mundo");
+    }
+    
+    
+    
     
 }
